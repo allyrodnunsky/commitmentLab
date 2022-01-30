@@ -84,10 +84,31 @@ hr {
 img {
   width: 75%;
   position: relative;
-
   padding: 0.2px;
   border-radius: 1.5em;
   color: white;
   width: 50%;
   float: right;
+}
+
+.bounce {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: white;
+  font-size: larger;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 1.5em;
+  width: 50%;
+  float: right;
+  animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: #001f3f;
+  }
+  100% {
+    background-color: #ff4136;
+  }
 }
