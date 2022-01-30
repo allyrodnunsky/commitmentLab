@@ -35,7 +35,6 @@ hr {
   padding: 0.2px;
   width: 50%;
   color: black;
-  margin-top: 10%;
 }
 
 .speech-bubble-recieve:after {
@@ -79,4 +78,15 @@ hr {
 }
 .double {
   margin-top: 1%;
+}
+
+img {
+  width: 75%;
+  position: relative;
+
+  padding: 0.2px;
+  border-radius: 1.5em;
+  color: white;
+  width: 50%;
+  float: right;
 }
