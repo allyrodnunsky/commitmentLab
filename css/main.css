@@ -48,7 +48,8 @@ hr {
   position: relative;
   background: #3a88fe;
   padding: 1px;
-  border-radius: 0.4em;
+  border-radius: 1.3em;
+  color: white;
 }
 
 .speech-bubble-send:after {
