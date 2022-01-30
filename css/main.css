@@ -25,6 +25,7 @@ hr {
   color: #fbfbfb;
 }
 .iMessage {
+  margin: auto;
   width: 50%;
   height: 100%;
 }
