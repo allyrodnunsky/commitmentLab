@@ -35,6 +35,7 @@ hr {
   padding: 0.2px;
   width: 50%;
   color: black;
+  float: left;
 }
 
 .speech-bubble-recieve:after {
