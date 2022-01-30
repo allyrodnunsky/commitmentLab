@@ -43,7 +43,7 @@ hr {
   content: "";
   position: absolute;
   left: 0;
-  top: 50%;
+
   width: 0;
   height: 0;
   border: 10px solid transparent;
