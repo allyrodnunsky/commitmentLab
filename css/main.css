@@ -25,9 +25,8 @@ hr {
   color: #fbfbfb;
 }
 .iMessage {
-  margin: auto;
+  margin-left: 25%;
   width: 50%;
-  height: 100%;
 }
 .speech-bubble-recieve {
   position: relative;
@@ -43,7 +42,7 @@ hr {
   content: "";
   position: absolute;
   left: 0;
-
+  top: 50%;
   width: 0;
   height: 0;
   border: 10px solid transparent;
